@@ -20,6 +20,10 @@ Discuss Laravel's authentication system, showcasing the styling process (navigat
 
 Initiate with a standard user, noting the restriction from dashboard access yet the ability to comment on posts.
 
+So what are you waiting for? 
+
+Let's jump right in!
+
 Comments feature replies.
 
 A notable aspect is that upon commenting on a post when authenticated, users are redirected back to the original post page.
