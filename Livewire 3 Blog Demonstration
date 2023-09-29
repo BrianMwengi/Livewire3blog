@@ -1,0 +1,45 @@
+Livewire 3 Blog Demonstration
+
+Ensure Ubuntu is launched and prepared.
+
+Welcome to this tutorial!
+
+Explore Livewire 3's Novel Capabilities!
+
+Begin with the homepage exclusively, (you'll be logged out).
+
+Demonstrate pagination,
+
+Experience real-time search,
+
+Search posts titled "Blog" along with other titles.
+
+Highlight the frontend integration, focusing on incorporating Bootstrap 5 among other elements.
+
+Discuss Laravel's authentication system, showcasing the styling process (navigate to login and registration pages to illustrate).
+
+Initiate with a standard user, noting the restriction from dashboard access yet the ability to comment on posts.
+
+Comments feature replies.
+
+A notable aspect is that upon commenting on a post when authenticated, users are redirected back to the original post page.
+
+Should a standard user attempt dashboard access (manage posts), they'll encounter a forbidden page.
+
+Transition to admin, displaying all admin functionalities.
+
+Create a post, showcasing validation.
+
+Addendum: posts require unique titles.
+
+Discover image resizing using Image Intervention.
+
+Explore Livewire 3 polling,
+
+Event listeners,
+
+Eager loading for enhanced speed optimization.
+
+Dive into PHP attributes within Livewire 3.
+
+Explore many-to-many relationships, for instance, posts associated with multiple images.
